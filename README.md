@@ -12,3 +12,16 @@ link to drive:  https://drive.google.com/file/d/1ojQf7M4A03AnMUq9qo5kCvqpCBtF4QK
 - Imports 2021
 - Imports 2022
 - Imports 2023
+
+
+# Run
+
+Download the Power BI notebook, using the following link: https://drive.google.com/file/d/1ojQf7M4A03AnMUq9qo5kCvqpCBtF4QK_/view?usp=sharing
+Download the following datasets, from :  https://www.data.gov.bh
+Imports 2020
+Imports 2021
+Imports 2022
+Imports 2023
+Download the HS CODE File from my repo
+
+# Happy running 🏃 and fasting 🌙
